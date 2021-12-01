@@ -1,0 +1,37 @@
+*{
+    font-size: 50px;
+    font-family: "Comfortaa";
+}
+
+body{
+    background-image: url(./images/thermometer-temperature-discharge-glass-1031781-wallhere.com.jpg);
+}
+
+#fahren{
+    border: 1px solid black;
+    border-radius: 25px;
+    height: 80px;
+}
+
+#celsius{
+    border: 1px solid black;
+    height: 80px;
+    border-radius: 25px;
+}
+
+form{
+    background-color: rgba(255, 187, 0, 0.418);
+    height: 80vh;
+    padding: 50px;
+    margin: auto;
+    text-align: center; 
+    width: 40%;
+    padding-top: 10px;
+    margin-top: 60px;
+    border-radius: 40px;
+
+}
+
+div{
+    background-color: white;
+}
